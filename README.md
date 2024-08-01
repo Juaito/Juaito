@@ -3,8 +3,6 @@
 - 👯 I'm looking to collaborate to spread knowledge around the world. I love [Celestia Project](https://github.com/CelestiaProject) and [IPTV-ORG Project](https://github.com/iptv-org)
 - ⚡ Fun fact: I’m not a software engineer, just I’m an internet enthusiast who loves to collect data and code.  Native Spanish speaker, I have a basic but acceptable level of English.
 
-[![](https://visitcount.itsvg.in/api?id=Juaito&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
-
 <!--
 **Juaito/Juaito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
